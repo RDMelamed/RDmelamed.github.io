@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Rachel Melamed - Computational Cancer Biology</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2020 14:41:04 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>My Article Name</title>
+      <link>/post/hello/</link>
+      <pubDate>Mon, 09 Mar 2020 14:41:04 -0400</pubDate>
+      <guid>/post/hello/</guid>
+      <description>&lt;p&gt;The work of this lab is inspired by certain key aspects of this process:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the gene for the BRAF protein causes constitutive growth signaling. 
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-caption&#34;&gt;
+
+
+
+  &lt;img data-src=&#34;/post/hello/Picture1_hu8d303a4a1e4694070fd91f5dfdf45d0c_24134_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;317&#34; height=&#34;178&#34;&gt;
+
+
+
+  
+  
+  &lt;figcaption&gt;
+    A caption
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Metformin, a diabetes drug, is under investigation as a cancer therapy, while combination hormone replacement therapy was found to increase risk of breast cancer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bloop 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-cells-are-constantly-at-risk-of-dna-damage-which-can-accumulate-over-many-cell-divisions-but-this-damage-only-results-in-cancer-when-it-affects-certain-well-defined-hallmark-biological-processes-insert-link-for-example-in-many-melanomas-a-specific-point-mutation-to-the--gene-for-the-braf-protein-causes-constitutive-growth-signaling&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/research/c1.png&#34; data-caption=&#34;Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the  gene for the BRAF protein causes constitutive growth signaling.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/research/c1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the  gene for the BRAF protein causes constitutive growth signaling.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-caption&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Picture2.jpg&#34; data-caption=&#34;A caption&#34;&gt;
+
+
+  &lt;img src=&#34;/img/Picture2.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A caption
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;img/Picture2.jpg&#34; alt=&#34;Kitten&#34;
+title=&#34;A cute kitten&#34; width=&#34;150&#34; height=&#34;100&#34; align=&#34;left&#34; /&gt;
+img src=&amp;quot;img/research/c2.png&amp;rdquo; alt=&amp;quot;cancer&amp;rdquo; width=&amp;quot;150&amp;rdquo; height=&amp;quot;100&amp;rdquo; align=&amp;quot;right&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

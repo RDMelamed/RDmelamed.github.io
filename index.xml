@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rachel Melamed - Computational Cancer Biology</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rachel Melamed - Computational Cancer Biology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rachel Melamed - Computational Cancer Biology</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>My Article Name</title>
+      <link>/post/hello/</link>
+      <pubDate>Mon, 09 Mar 2020 14:41:04 -0400</pubDate>
+      <guid>/post/hello/</guid>
+      <description>&lt;p&gt;The work of this lab is inspired by certain key aspects of this process:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the gene for the BRAF protein causes constitutive growth signaling. 
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-caption&#34;&gt;
+
+
+
+  &lt;img data-src=&#34;/post/hello/Picture1_hu8d303a4a1e4694070fd91f5dfdf45d0c_24134_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;317&#34; height=&#34;178&#34;&gt;
+
+
+
+  
+  
+  &lt;figcaption&gt;
+    A caption
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Metformin, a diabetes drug, is under investigation as a cancer therapy, while combination hormone replacement therapy was found to increase risk of breast cancer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bloop 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-cells-are-constantly-at-risk-of-dna-damage-which-can-accumulate-over-many-cell-divisions-but-this-damage-only-results-in-cancer-when-it-affects-certain-well-defined-hallmark-biological-processes-insert-link-for-example-in-many-melanomas-a-specific-point-mutation-to-the--gene-for-the-braf-protein-causes-constitutive-growth-signaling&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/research/c1.png&#34; data-caption=&#34;Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the  gene for the BRAF protein causes constitutive growth signaling.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/research/c1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the  gene for the BRAF protein causes constitutive growth signaling.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-caption&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Picture2.jpg&#34; data-caption=&#34;A caption&#34;&gt;
+
+
+  &lt;img src=&#34;/img/Picture2.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A caption
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;img/Picture2.jpg&#34; alt=&#34;Kitten&#34;
+title=&#34;A cute kitten&#34; width=&#34;150&#34; height=&#34;100&#34; align=&#34;left&#34; /&gt;
+img src=&amp;quot;img/research/c2.png&amp;rdquo; alt=&amp;quot;cancer&amp;rdquo; width=&amp;quot;150&amp;rdquo; height=&amp;quot;100&amp;rdquo; align=&amp;quot;right&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using indication embeddings to represent patient health for drug safety studies</title>
+      <link>/publication/indication_embeddings/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/indication_embeddings/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;/files/poster_melamed_triconf.pdf&#34;&gt;&lt;img src=&#34;Slide1.jpeg&#34; alt=&#34;poster&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Methods to discover effects of drugs in health data must account for tens of thousands of potentially relevant confounders. Our goal in this work is to reduce the dimensionality of the health data with the aim of accelerating the application of retrospective cohort studies to this data.&lt;/p&gt;
+&lt;p&gt;In this work, we develop indication embeddings, a way to reduce the dimensionality of health data while capturing the information relevant to treatment decisions. We evaluate these embeddings using external data on drug indications. Then, we use the embeddings as a substitute for medical history to match patients, and develop evaluation metrics for these matches.&lt;/p&gt;
+&lt;p&gt;We demonstrate that these embeddings recover therapeutic uses of drugs. We use embeddings as an informative representation of relationships between drugs, between health history events and drug prescriptions, and between patients at a particular time in their health history. We show that using embeddings to match cohorts improves the balance of the cohorts in terms of poorly measured risk factors like smoking.&lt;/p&gt;
+&lt;p&gt;Unike other embeddings inspired by word2vec, indication embeddings are specifically designed to capture the medical history leading to prescription of a new drug. For retrospective cohort studies, our low-dimensional representation helps in finding comparator drugs and constructing comparator cohorts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>join</title>
+      <link>/join/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/join/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>/people2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/people2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>/pubpage/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/pubpage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>papers2</title>
+      <link>/papers/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/papers/</guid>
+      <description>&lt;p&gt;See full publications here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Patchwork of contrasting medication cultures across the USA</title>
+      <link>/publication/patchwork/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/patchwork/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The natural history of cancer</title>
+      <link>/project/health-records/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/health-records/</guid>
+      <description>&lt;p&gt;One way to discover influences on cancer development is by examining many people’s health histories. Drugs taken for other purposes may impact pre-cancerous tissue, which can manifest in altered rates of cancer among treated individuals. We use medical records data and apply methods from epidemiology and causal inference in order to infer the effects of other diseases, common drugs, and combinations of these factors on cancer onset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connecting other health conditions to cancer</title>
+      <link>/project/disease-connect/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/project/disease-connect/</guid>
+      <description>&lt;p&gt;Cancer develops through successive genotypic and microenvironmental changes to neoplastic tissue. Even for patients with the same tumor type, the life history events contributing to oncogenesis can vary. In this project we combine genetic, genomic, and epidemiological methods to study disease phenotypes contributing to cancer incidence, such as chronic inflammation or metabolic pathologies. Our findings will illuminate tumor biology and suggest personalized therapies.&lt;/p&gt;
+&lt;p&gt;Common genetic variation can alter biological processes in subtle ways that eventually lead to disease development. Resources like the UK biobank combine genetic information with data on the corresponding health states of the same people. By combining multiple types of genomic data we examine how common disease processes may impact cancer development&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning how drugs affect cancer tissue</title>
+      <link>/project/drug-effects/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/drug-effects/</guid>
+      <description>&lt;p&gt;While health databases bring the exciting opportunity to generate hypotheses regarding drugs that alter risk of cancer, experimental data provides another viewpoint on drug effects. This project aims to use this data to understand the effects of drugs on gene expression, and how these effects tie to cancer pathways.&lt;/p&gt;
+&lt;p&gt;Publicly available large-scale experiments measure gene expression and phenotype of diverse human cell lines perturbed by hundreds of molecules, including many common drugs. This project combines this cell line data with knowledge bases of drug effects in human populations, cancer multi-omics projects, and systems biology databases to learn how drug-induced gene expression can change cancer cell phenotype.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genetic similarity between cancers and comorbid Mendelian diseases identifies candidate driver genes</title>
+      <link>/publication/mendelian_dis/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/mendelian_dis/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Compilations of clinical records spanning over 100 million patients provide an unprecedented opportunity to assess clinical associations between Mendelian diseases and cancers. We systematically compare these comorbidities against recurrent somatic mutations from more than 5,000 patients across many cancers. Using multiple measures of genetic similarity, we show that a Mendelian disease and comorbid cancer indeed have genetic alterations of significant functional similarity. This result provides a basis to identify candidate drivers in cancers including melanoma and glioblastoma. Some Mendelian diseases demonstrate ‘pan-cancer’ comorbidity and shared genetics across cancers.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;. and&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+{
+  "name": "Rachel Melamed - Computational Cancer Biology",
+  "short_name": "Rachel Melamed - Computational Cancer Biology",
+  "lang": "en-us",
+  "theme_color": "rgb(251, 191, 183)",
+  "background_color": "rgb(251, 191, 183)",
+  "icons": [{
+    "src": "/images/icon_hu73cc2cb6c319950779c7bbd42fb86329_9079_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu73cc2cb6c319950779c7bbd42fb86329_9079_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

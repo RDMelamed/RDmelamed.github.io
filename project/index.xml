@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Rachel Melamed - Computational Cancer Biology</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>The natural history of cancer</title>
+      <link>/project/health-records/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/health-records/</guid>
+      <description>&lt;p&gt;One way to discover influences on cancer development is by examining many people’s health histories. Drugs taken for other purposes may impact pre-cancerous tissue, which can manifest in altered rates of cancer among treated individuals. We use medical records data and apply methods from epidemiology and causal inference in order to infer the effects of other diseases, common drugs, and combinations of these factors on cancer onset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connecting other health conditions to cancer</title>
+      <link>/project/disease-connect/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/project/disease-connect/</guid>
+      <description>&lt;p&gt;Cancer develops through successive genotypic and microenvironmental changes to neoplastic tissue. Even for patients with the same tumor type, the life history events contributing to oncogenesis can vary. In this project we combine genetic, genomic, and epidemiological methods to study disease phenotypes contributing to cancer incidence, such as chronic inflammation or metabolic pathologies. Our findings will illuminate tumor biology and suggest personalized therapies.&lt;/p&gt;
+&lt;p&gt;Common genetic variation can alter biological processes in subtle ways that eventually lead to disease development. Resources like the UK biobank combine genetic information with data on the corresponding health states of the same people. By combining multiple types of genomic data we examine how common disease processes may impact cancer development&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning how drugs affect cancer tissue</title>
+      <link>/project/drug-effects/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/drug-effects/</guid>
+      <description>&lt;p&gt;While health databases bring the exciting opportunity to generate hypotheses regarding drugs that alter risk of cancer, experimental data provides another viewpoint on drug effects. This project aims to use this data to understand the effects of drugs on gene expression, and how these effects tie to cancer pathways.&lt;/p&gt;
+&lt;p&gt;Publicly available large-scale experiments measure gene expression and phenotype of diverse human cell lines perturbed by hundreds of molecules, including many common drugs. This project combines this cell line data with knowledge bases of drug effects in human populations, cancer multi-omics projects, and systems biology databases to learn how drug-induced gene expression can change cancer cell phenotype.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
