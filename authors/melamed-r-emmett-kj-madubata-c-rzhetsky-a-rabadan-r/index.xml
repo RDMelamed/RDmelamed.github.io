@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melamed R, Emmett KJ, Madubata C, Rzhetsky A, Rabadan R | Computational Cancer Biology Lab</title>
-    <link>/authors/melamed-r-emmett-kj-madubata-c-rzhetsky-a-rabadan-r/</link>
-      <atom:link href="/authors/melamed-r-emmett-kj-madubata-c-rzhetsky-a-rabadan-r/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rdmelamed.github.io/authors/melamed-r-emmett-kj-madubata-c-rzhetsky-a-rabadan-r/</link>
+      <atom:link href="https://rdmelamed.github.io/authors/melamed-r-emmett-kj-madubata-c-rzhetsky-a-rabadan-r/index.xml" rel="self" type="application/rss+xml" />
     <description>Melamed R, Emmett KJ, Madubata C, Rzhetsky A, Rabadan R</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Melamed R, Emmett KJ, Madubata C, Rzhetsky A, Rabadan R</title>
-      <link>/authors/melamed-r-emmett-kj-madubata-c-rzhetsky-a-rabadan-r/</link>
+      <link>https://rdmelamed.github.io/authors/melamed-r-emmett-kj-madubata-c-rzhetsky-a-rabadan-r/</link>
     </image>
     
     <item>
       <title>Genetic similarity between cancers and comorbid Mendelian diseases identifies candidate driver genes</title>
-      <link>/publication/mendelian_dis/</link>
+      <link>https://rdmelamed.github.io/publication/mendelian_dis/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/mendelian_dis/</guid>
+      <guid>https://rdmelamed.github.io/publication/mendelian_dis/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Compilations of clinical records spanning over 100 million patients provide an unprecedented opportunity to assess clinical associations between Mendelian diseases and cancers. We systematically compare these comorbidities against recurrent somatic mutations from more than 5,000 patients across many cancers. Using multiple measures of genetic similarity, we show that a Mendelian disease and comorbid cancer indeed have genetic alterations of significant functional similarity. This result provides a basis to identify candidate drivers in cancers including melanoma and glioblastoma. Some Mendelian diseases demonstrate ‘pan-cancer’ comorbidity and shared genetics across cancers.&lt;/p&gt;
 </description>

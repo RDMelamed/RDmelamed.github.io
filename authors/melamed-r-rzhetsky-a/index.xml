@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melamed R, Rzhetsky A | Computational Cancer Biology Lab</title>
-    <link>/authors/melamed-r-rzhetsky-a/</link>
-      <atom:link href="/authors/melamed-r-rzhetsky-a/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rdmelamed.github.io/authors/melamed-r-rzhetsky-a/</link>
+      <atom:link href="https://rdmelamed.github.io/authors/melamed-r-rzhetsky-a/index.xml" rel="self" type="application/rss+xml" />
     <description>Melamed R, Rzhetsky A</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Melamed R, Rzhetsky A</title>
-      <link>/authors/melamed-r-rzhetsky-a/</link>
+      <link>https://rdmelamed.github.io/authors/melamed-r-rzhetsky-a/</link>
     </image>
     
     <item>
       <title>Patchwork of contrasting medication cultures across the USA</title>
-      <link>/publication/patchwork/</link>
+      <link>https://rdmelamed.github.io/publication/patchwork/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/patchwork/</guid>
+      <guid>https://rdmelamed.github.io/publication/patchwork/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
