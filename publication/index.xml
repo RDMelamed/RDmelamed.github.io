@@ -5,26 +5,12 @@
     <link>https://rdmelamed.github.io/publication/</link>
       <atom:link href="https://rdmelamed.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://rdmelamed.github.io/publication/</link>
     </image>
-    
-    <item>
-      <title>Using indication embeddings to represent patient health for drug safety studies</title>
-      <link>https://rdmelamed.github.io/publication/indication_embeddings/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/publication/indication_embeddings/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://rdmelamed.github.io/files/poster_melamed_triconf.pdf&#34;&gt;&lt;img src=&#34;Slide1.jpeg&#34; alt=&#34;poster&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Methods to discover effects of drugs in health data must account for tens of thousands of potentially relevant confounders. Our goal in this work is to reduce the dimensionality of the health data with the aim of accelerating the application of retrospective cohort studies to this data.&lt;/p&gt;
-&lt;p&gt;In this work, we develop indication embeddings, a way to reduce the dimensionality of health data while capturing the information relevant to treatment decisions. We evaluate these embeddings using external data on drug indications. Then, we use the embeddings as a substitute for medical history to match patients, and develop evaluation metrics for these matches.&lt;/p&gt;
-&lt;p&gt;We demonstrate that these embeddings recover therapeutic uses of drugs. We use embeddings as an informative representation of relationships between drugs, between health history events and drug prescriptions, and between patients at a particular time in their health history. We show that using embeddings to match cohorts improves the balance of the cohorts in terms of poorly measured risk factors like smoking.&lt;/p&gt;
-&lt;p&gt;Unike other embeddings inspired by word2vec, indication embeddings are specifically designed to capture the medical history leading to prescription of a new drug. For retrospective cohort studies, our low-dimensional representation helps in finding comparator drugs and constructing comparator cohorts.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Patchwork of contrasting medication cultures across the USA</title>
@@ -42,6 +28,20 @@
       <guid>https://rdmelamed.github.io/publication/mendelian_dis/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Compilations of clinical records spanning over 100 million patients provide an unprecedented opportunity to assess clinical associations between Mendelian diseases and cancers. We systematically compare these comorbidities against recurrent somatic mutations from more than 5,000 patients across many cancers. Using multiple measures of genetic similarity, we show that a Mendelian disease and comorbid cancer indeed have genetic alterations of significant functional similarity. This result provides a basis to identify candidate drivers in cancers including melanoma and glioblastoma. Some Mendelian diseases demonstrate ‘pan-cancer’ comorbidity and shared genetics across cancers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using indication embeddings to represent patient health for drug safety studies</title>
+      <link>https://rdmelamed.github.io/publication/indication_embeddings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rdmelamed.github.io/publication/indication_embeddings/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://rdmelamed.github.io/files/poster_melamed_triconf.pdf&#34;&gt;&lt;img src=&#34;Slide1.jpeg&#34; alt=&#34;poster&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Methods to discover effects of drugs in health data must account for tens of thousands of potentially relevant confounders. Our goal in this work is to reduce the dimensionality of the health data with the aim of accelerating the application of retrospective cohort studies to this data.&lt;/p&gt;
+&lt;p&gt;In this work, we develop indication embeddings, a way to reduce the dimensionality of health data while capturing the information relevant to treatment decisions. We evaluate these embeddings using external data on drug indications. Then, we use the embeddings as a substitute for medical history to match patients, and develop evaluation metrics for these matches.&lt;/p&gt;
+&lt;p&gt;We demonstrate that these embeddings recover therapeutic uses of drugs. We use embeddings as an informative representation of relationships between drugs, between health history events and drug prescriptions, and between patients at a particular time in their health history. We show that using embeddings to match cohorts improves the balance of the cohorts in terms of poorly measured risk factors like smoking.&lt;/p&gt;
+&lt;p&gt;Unike other embeddings inspired by word2vec, indication embeddings are specifically designed to capture the medical history leading to prescription of a new drug. For retrospective cohort studies, our low-dimensional representation helps in finding comparator drugs and constructing comparator cohorts.&lt;/p&gt;
 </description>
     </item>
     

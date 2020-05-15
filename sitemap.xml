@@ -13,26 +13,6 @@
   </url>
   
   <url>
-    <loc>https://rdmelamed.github.io/authors/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rdmelamed.github.io/authors/melamed-r/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rdmelamed.github.io/publication/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rdmelamed.github.io/publication/indication_embeddings/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rdmelamed.github.io/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -58,12 +38,27 @@
   </url>
   
   <url>
+    <loc>https://rdmelamed.github.io/authors/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rdmelamed.github.io/authors/melamed-r/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rdmelamed.github.io/authors/melamed-r-rzhetsky-a/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rdmelamed.github.io/publication/patchwork/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rdmelamed.github.io/publication/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -120,6 +115,10 @@
   
   <url>
     <loc>https://rdmelamed.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdmelamed.github.io/publication/indication_embeddings/</loc>
   </url>
   
 </urlset>
