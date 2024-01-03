@@ -182,26 +182,26 @@ img src=&amp;quot;img/research/c2.png&amp;rdquo; alt=&amp;quot;cancer&amp;rdquo;
     </item>
     
     <item>
-      <title>The natural history of cancer</title>
+      <title>The natural history of cancers and dementias</title>
       <link>https://rdmelamed.github.io/project/health-records/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://rdmelamed.github.io/project/health-records/</guid>
-      <description>&lt;p&gt;One way to discover influences on cancer development is by examining many people’s health histories. Drugs taken for other purposes may impact pre-cancerous tissue, which can manifest in altered rates of cancer among treated individuals. Famous examples include 
+      <description>&lt;p&gt;One way to discover influences on disease development is by examining many people’s health histories. Drugs taken for other purposes may impact pre-cancerous tissue, which can manifest in altered rates of cancer among treated individuals. Famous examples include 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0959804910004879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;metformin&lt;/a&gt;, a diabetes drug which may reduce risk of cancer and is under investigation as a cancer therapy, and 
 &lt;a href=&#34;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2819%2931709-X/fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;combination hormone replacement therapy&lt;/a&gt;, which was found to increase risk of breast cancer.&lt;/p&gt;
-&lt;p&gt;Similarly, some health conditions such as 
-&lt;a href=&#34;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2814%2960892-8/fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;high BMI&lt;/a&gt; can increase risk of cancer, while others may decrease risk or result in better outcomes for cancer patients.&lt;/p&gt;
-&lt;p&gt;We use medical records data and apply methods from epidemiology and causal inference in order to infer the effects of other diseases, common drugs, and combinations of these factors on cancer onset and outcomes.&lt;/p&gt;
+&lt;p&gt;Similarly, some health conditions can increase risk of cancers or dementias, while others may decrease risk or result in better outcomes for patients.&lt;/p&gt;
+&lt;p&gt;We use medical records data and apply methods from epidemiology and causal inference in order to infer the effects of other diseases, common drugs, and combinations of these factors on cancer and dementia onset and outcomes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Connecting other health conditions to cancer</title>
+      <title>Leveraging the shared basis of diseases</title>
       <link>https://rdmelamed.github.io/project/disease-connect/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://rdmelamed.github.io/project/disease-connect/</guid>
-      <description>&lt;p&gt;Cancer develops through successive genotypic and microenvironmental changes to neoplastic tissue. Even for patients with the same tumor type, the life history events contributing to oncogenesis can vary. In this project we combine genetic, genomic, and epidemiological methods to study disease phenotypes contributing to cancer incidence, such as chronic inflammation or metabolic pathologies. Our findings will illuminate tumor biology and suggest personalized therapies.&lt;/p&gt;
-&lt;p&gt;Common genetic variation can alter biological processes in subtle ways that eventually lead to disease development. Resources like the UK biobank combine genetic information with data on the corresponding health states of the same people. By combining multiple types of genomic data we examine how common disease processes may impact cancer development&lt;/p&gt;
+      <description>&lt;p&gt;Diseases develops through successive genotypic and microenvironmental changes to the body tissue. Even for patients with similar clinical disease, the life history events contributing to its development can vary.&lt;/p&gt;
+&lt;p&gt;In this project we combine genetic, genomic, and epidemiological methods to study the processes contributing to disease incidence, such as chronic inflammation or metabolic pathologies. Our findings will illuminate disease biology and suggest personalized therapies.&lt;/p&gt;
+&lt;p&gt;Common genetic variation can alter biological processes in subtle ways that eventually lead to disease development. Resources like the UK biobank combine genetic information with data on the corresponding health states of the same people. By combining multiple types of genomic data we examine how common disease processes may impact disease development&lt;/p&gt;
 </description>
     </item>
     
@@ -216,12 +216,12 @@ img src=&amp;quot;img/research/c2.png&amp;rdquo; alt=&amp;quot;cancer&amp;rdquo;
     </item>
     
     <item>
-      <title>Learning how drugs affect cancer tissue</title>
+      <title>Learning how drugs affect disease tissue</title>
       <link>https://rdmelamed.github.io/project/drug-effects/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://rdmelamed.github.io/project/drug-effects/</guid>
-      <description>&lt;p&gt;While health databases bring the exciting opportunity to generate hypotheses regarding drugs that alter risk of cancer, experimental data provides another viewpoint on drug effects. This project aims to use this data to understand the effects of drugs on gene expression, and how these effects tie to cancer pathways.&lt;/p&gt;
-&lt;p&gt;Publicly available large-scale experiments measure gene expression and phenotype of diverse human cell lines perturbed by hundreds of molecules, including many common drugs. This project combines this cell line data with knowledge bases of drug effects in human populations, cancer multi-omics projects, and systems biology databases to learn how drug-induced gene expression can change cancer cell phenotype.&lt;/p&gt;
+      <description>&lt;p&gt;While health databases bring the exciting opportunity to generate hypotheses regarding drugs that alter risk of disease, experimental data provides another viewpoint on drug effects. This project aims to use this data to understand the effects of drugs on gene expression, and how these effects tie to disease pathways.&lt;/p&gt;
+&lt;p&gt;Publicly available large-scale experiments measure gene expression and phenotype of diverse human cell lines perturbed by hundreds of molecules, including many common drugs. This project combines this cell line data with knowledge bases of drug effects in human populations, disease multi-omics projects, and systems biology databases to learn how drug-induced gene expression can alter disease pathways resulting in observable effects on disease development.&lt;/p&gt;
 </description>
     </item>
     
