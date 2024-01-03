@@ -221,7 +221,7 @@ img src=&amp;quot;img/research/c2.png&amp;rdquo; alt=&amp;quot;cancer&amp;rdquo;
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://rdmelamed.github.io/project/drug-effects/</guid>
       <description>&lt;p&gt;While health databases bring the exciting opportunity to generate hypotheses regarding drugs that alter risk of disease, experimental data provides another viewpoint on drug effects. This project aims to use this data to understand the effects of drugs on gene expression, and how these effects tie to disease pathways.&lt;/p&gt;
-&lt;p&gt;Publicly available large-scale experiments measure gene expression and phenotype of diverse human cell lines perturbed by hundreds of molecules, including many common drugs. This project combines this cell line data with knowledge bases of drug effects in human populations, disease multi-omics projects, and systems biology databases to learn how drug-induced gene expression can alter disease pathways resulting in observable effects on disease development.&lt;/p&gt;
+&lt;p&gt;Publicly available large-scale experiments measure gene expression and phenotype of diverse human cell lines perturbed by hundreds of molecules, including many common drugs. This project combines this in vitro data with knowledge bases of drug effects in human populations, disease multi-omics projects, and systems biology databases to learn how drug-induced gene expression can alter disease pathways resulting in observable effects on disease development.&lt;/p&gt;
 </description>
     </item>
     
