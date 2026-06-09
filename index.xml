@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computational Disease Biology Lab</title>
+    <title>Computational Disease Therapeutics Lab</title>
     <link>https://rdmelamed.github.io/</link>
       <atom:link href="https://rdmelamed.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Computational Disease Biology Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>Computational Disease Therapeutics Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2020 14:41:04 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Computational Disease Biology Lab</title>
+      <title>Computational Disease Therapeutics Lab</title>
       <link>https://rdmelamed.github.io/</link>
     </image>
     
@@ -134,7 +134,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;img/Picture2.jpg&#34; alt=&#34;Kitten&#34;
 title=&#34;A cute kitten&#34; width=&#34;150&#34; height=&#34;100&#34; align=&#34;left&#34; /&gt;
-img src=&amp;quot;img/research/c2.png&amp;rdquo; alt=&amp;quot;cancer&amp;rdquo; width=&amp;quot;150&amp;rdquo; height=&amp;quot;100&amp;rdquo; align=&amp;quot;right&amp;rdquo;&lt;/li&gt;
+img src=&amp;ldquo;img/research/c2.png&amp;rdquo; alt=&amp;ldquo;cancer&amp;rdquo; width=&amp;ldquo;150&amp;rdquo; height=&amp;ldquo;100&amp;rdquo; align=&amp;ldquo;right&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -177,7 +177,7 @@ img src=&amp;quot;img/research/c2.png&amp;rdquo; alt=&amp;quot;cancer&amp;rdquo;
       <link>https://rdmelamed.github.io/publication/patchwork/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://rdmelamed.github.io/publication/patchwork/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;
 </description>
     </item>
     
@@ -210,7 +210,7 @@ img src=&amp;quot;img/research/c2.png&amp;rdquo; alt=&amp;quot;cancer&amp;rdquo;
       <link>https://rdmelamed.github.io/publication/mendelian_dis/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://rdmelamed.github.io/publication/mendelian_dis/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;
 &lt;p&gt;Compilations of clinical records spanning over 100 million patients provide an unprecedented opportunity to assess clinical associations between Mendelian diseases and cancers. We systematically compare these comorbidities against recurrent somatic mutations from more than 5,000 patients across many cancers. Using multiple measures of genetic similarity, we show that a Mendelian disease and comorbid cancer indeed have genetic alterations of significant functional similarity. This result provides a basis to identify candidate drivers in cancers including melanoma and glioblastoma. Some Mendelian diseases demonstrate ‘pan-cancer’ comorbidity and shared genetics across cancers.&lt;/p&gt;
 </description>
     </item>
