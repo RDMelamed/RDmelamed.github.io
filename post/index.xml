@@ -1,16 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts | Computational Disease Biology Lab</title>
-    <link>https://rdmelamed.github.io/post/</link>
-      <atom:link href="https://rdmelamed.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Posts</title>
-      <link>https://rdmelamed.github.io/post/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Computational Disease Biology Lab</title><link>https://rdmelamed.github.io/post/</link><atom:link href="https://rdmelamed.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2020 14:41:04 -0400</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Posts</title><link>https://rdmelamed.github.io/post/</link></image><item><title>My Article Name</title><link>https://rdmelamed.github.io/post/hello/</link><pubDate>Mon, 09 Mar 2020 14:41:04 -0400</pubDate><guid>https://rdmelamed.github.io/post/hello/</guid><description>&lt;p>The work of this lab is inspired by certain key aspects of this process:&lt;/p>
+&lt;ul>
+&lt;li>Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the gene for the BRAF protein causes constitutive growth signaling.
+&lt;figure id="figure-a-caption">
+&lt;img data-src="https://rdmelamed.github.io/post/hello/Picture1_hu8d303a4a1e4694070fd91f5dfdf45d0c_24134_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="317" height="178">
+&lt;figcaption>
+A caption
+&lt;/figcaption>
+&lt;/figure>
+&lt;/li>
+&lt;/ul>
+&lt;p>Metformin, a diabetes drug, is under investigation as a cancer therapy, while combination hormone replacement therapy was found to increase risk of breast cancer.&lt;/p>
+&lt;ul>
+&lt;li>Bloop
+&lt;figure id="figure-cells-are-constantly-at-risk-of-dna-damage-which-can-accumulate-over-many-cell-divisions-but-this-damage-only-results-in-cancer-when-it-affects-certain-well-defined-hallmark-biological-processes-insert-link-for-example-in-many-melanomas-a-specific-point-mutation-to-the--gene-for-the-braf-protein-causes-constitutive-growth-signaling">
+&lt;a data-fancybox="" href="https://rdmelamed.github.io/img/research/c1.png" data-caption="Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the gene for the BRAF protein causes constitutive growth signaling.">
+&lt;img src="https://rdmelamed.github.io/img/research/c1.png" alt="" >
+&lt;/a>
+&lt;figcaption>
+Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the gene for the BRAF protein causes constitutive growth signaling.
+&lt;/figcaption>
+&lt;/figure>
+&lt;/li>
+&lt;/ul>
+&lt;figure id="figure-a-caption">
+&lt;a data-fancybox="" href="https://rdmelamed.github.io/img/Picture2.jpg" data-caption="A caption">
+&lt;img src="https://rdmelamed.github.io/img/Picture2.jpg" alt="" >
+&lt;/a>
+&lt;figcaption>
+A caption
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;img src="img/Picture2.jpg" alt="Kitten"
+title="A cute kitten" width="150" height="100" align="left" />
+img src=&amp;ldquo;img/research/c2.png&amp;rdquo; alt=&amp;ldquo;cancer&amp;rdquo; width=&amp;ldquo;150&amp;rdquo; height=&amp;ldquo;100&amp;rdquo; align=&amp;ldquo;right&amp;rdquo;&lt;/li>
+&lt;/ul></description></item></channel></rss>

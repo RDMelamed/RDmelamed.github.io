@@ -1,259 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Computational Disease Biology Lab</title>
-    <link>https://rdmelamed.github.io/</link>
-      <atom:link href="https://rdmelamed.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Computational Disease Biology Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2020 14:41:04 -0400</lastBuildDate>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Computational Disease Biology Lab</title>
-      <link>https://rdmelamed.github.io/</link>
-    </image>
-    
-    <item>
-      <title>My Article Name</title>
-      <link>https://rdmelamed.github.io/post/hello/</link>
-      <pubDate>Mon, 09 Mar 2020 14:41:04 -0400</pubDate>
-      <guid>https://rdmelamed.github.io/post/hello/</guid>
-      <description>&lt;p&gt;The work of this lab is inspired by certain key aspects of this process:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the gene for the BRAF protein causes constitutive growth signaling. 
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-a-caption&#34;&gt;
-
-
-
-  &lt;img data-src=&#34;https://rdmelamed.github.io/post/hello/Picture1_hu8d303a4a1e4694070fd91f5dfdf45d0c_24134_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;317&#34; height=&#34;178&#34;&gt;
-
-
-
-  
-  
-  &lt;figcaption&gt;
-    A caption
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Metformin, a diabetes drug, is under investigation as a cancer therapy, while combination hormone replacement therapy was found to increase risk of breast cancer.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bloop 
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-cells-are-constantly-at-risk-of-dna-damage-which-can-accumulate-over-many-cell-divisions-but-this-damage-only-results-in-cancer-when-it-affects-certain-well-defined-hallmark-biological-processes-insert-link-for-example-in-many-melanomas-a-specific-point-mutation-to-the--gene-for-the-braf-protein-causes-constitutive-growth-signaling&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rdmelamed.github.io/img/research/c1.png&#34; data-caption=&#34;Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the  gene for the BRAF protein causes constitutive growth signaling.&#34;&gt;
-
-
-  &lt;img src=&#34;https://rdmelamed.github.io/img/research/c1.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the  gene for the BRAF protein causes constitutive growth signaling.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-a-caption&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rdmelamed.github.io/img/Picture2.jpg&#34; data-caption=&#34;A caption&#34;&gt;
-
-
-  &lt;img src=&#34;https://rdmelamed.github.io/img/Picture2.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    A caption
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;img src=&#34;img/Picture2.jpg&#34; alt=&#34;Kitten&#34;
-title=&#34;A cute kitten&#34; width=&#34;150&#34; height=&#34;100&#34; align=&#34;left&#34; /&gt;
-img src=&amp;ldquo;img/research/c2.png&amp;rdquo; alt=&amp;ldquo;cancer&amp;rdquo; width=&amp;ldquo;150&amp;rdquo; height=&amp;ldquo;100&amp;rdquo; align=&amp;ldquo;right&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>join</title>
-      <link>https://rdmelamed.github.io/join/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/join/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landing Page</title>
-      <link>https://rdmelamed.github.io/people/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landing Page</title>
-      <link>https://rdmelamed.github.io/pubpage/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/pubpage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>papers2</title>
-      <link>https://rdmelamed.github.io/papers/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/papers/</guid>
-      <description>&lt;p&gt;See full publications here&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Patchwork of contrasting medication cultures across the USA</title>
-      <link>https://rdmelamed.github.io/publication/patchwork/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/publication/patchwork/</guid>
-      <description>&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The natural history of cancers and dementias</title>
-      <link>https://rdmelamed.github.io/project/health-records/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/project/health-records/</guid>
-      <description>&lt;p&gt;One way to discover influences on disease development is by examining many people’s health histories. Drugs taken for other purposes may impact pre-cancerous tissue, which can manifest in altered rates of cancer among treated individuals. Famous examples include 
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0959804910004879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;metformin&lt;/a&gt;, a diabetes drug which may reduce risk of cancer and is under investigation as a cancer therapy, and 
-&lt;a href=&#34;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2819%2931709-X/fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;combination hormone replacement therapy&lt;/a&gt;, which was found to increase risk of breast cancer.&lt;/p&gt;
-&lt;p&gt;Similarly, some health conditions can increase risk of cancers or dementias, while others may decrease risk or result in better outcomes for patients.&lt;/p&gt;
-&lt;p&gt;We use medical records data and apply methods from epidemiology and causal inference in order to infer the effects of other diseases, common drugs, and combinations of these factors on cancer and dementia onset and outcomes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Leveraging the shared basis of diseases</title>
-      <link>https://rdmelamed.github.io/project/disease-connect/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/project/disease-connect/</guid>
-      <description>&lt;p&gt;Diseases develops through successive genotypic and microenvironmental changes to the body tissue. Even for patients with similar clinical disease, the life history events contributing to its development can vary.&lt;/p&gt;
-&lt;p&gt;In this project we combine genetic, genomic, and epidemiological methods to study the processes contributing to disease incidence, such as chronic inflammation or metabolic pathologies. Our findings will illuminate disease biology and suggest personalized therapies.&lt;/p&gt;
-&lt;p&gt;Common genetic variation can alter biological processes in subtle ways that eventually lead to disease development. Resources like the UK biobank combine genetic information with data on the corresponding health states of the same people. By combining multiple types of genomic data we examine how common disease processes may impact disease development&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Genetic similarity between cancers and comorbid Mendelian diseases identifies candidate driver genes</title>
-      <link>https://rdmelamed.github.io/publication/mendelian_dis/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/publication/mendelian_dis/</guid>
-      <description>&lt;img src=&#34;detailed.png&#34; alt=&#34;cancer&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;
-&lt;p&gt;Compilations of clinical records spanning over 100 million patients provide an unprecedented opportunity to assess clinical associations between Mendelian diseases and cancers. We systematically compare these comorbidities against recurrent somatic mutations from more than 5,000 patients across many cancers. Using multiple measures of genetic similarity, we show that a Mendelian disease and comorbid cancer indeed have genetic alterations of significant functional similarity. This result provides a basis to identify candidate drivers in cancers including melanoma and glioblastoma. Some Mendelian diseases demonstrate ‘pan-cancer’ comorbidity and shared genetics across cancers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning how drugs affect disease tissue</title>
-      <link>https://rdmelamed.github.io/project/drug-effects/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/project/drug-effects/</guid>
-      <description>&lt;p&gt;While health databases bring the exciting opportunity to generate hypotheses regarding drugs that alter risk of disease, experimental data provides another viewpoint on drug effects. This project aims to use this data to understand the effects of drugs on gene expression, and how these effects tie to disease pathways.&lt;/p&gt;
-&lt;p&gt;Publicly available large-scale experiments measure gene expression and phenotype of diverse human cell lines perturbed by hundreds of molecules, including many common drugs. This project combines this in vitro data with knowledge bases of drug effects in human populations, disease multi-omics projects, and systems biology databases to learn how drug-induced gene expression can alter disease pathways resulting in observable effects on disease development.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rdmelamed.github.io/googlec7f5397a7a32e166/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/googlec7f5397a7a32e166/</guid>
-      <description>google-site-verification: googlec7f5397a7a32e166.html</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rdmelamed.github.io/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using indication embeddings to represent patient health for drug safety studies</title>
-      <link>https://rdmelamed.github.io/publication/indication_embeddings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rdmelamed.github.io/publication/indication_embeddings/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://rdmelamed.github.io/files/poster_melamed_amianov.pdf&#34;&gt;&lt;img src=&#34;Slide1.jpeg&#34; alt=&#34;poster&#34; vspace = &#34;20&#34; width=&#34;350&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Methods to discover effects of drugs in health data must account for tens of thousands of potentially relevant confounders. Our goal in this work is to reduce the dimensionality of the health data with the aim of accelerating the application of retrospective cohort studies to this data.&lt;/p&gt;
-&lt;p&gt;In this work, we develop indication embeddings, a way to reduce the dimensionality of health data while capturing the information relevant to treatment decisions. We evaluate these embeddings using external data on drug indications. Then, we use the embeddings as a substitute for medical history to match patients, and develop evaluation metrics for these matches.&lt;/p&gt;
-&lt;p&gt;We demonstrate that these embeddings recover therapeutic uses of drugs. We use embeddings as an informative representation of relationships between drugs, between health history events and drug prescriptions, and between patients at a particular time in their health history. We show that using embeddings to match cohorts improves the balance of the cohorts in terms of poorly measured risk factors like smoking.&lt;/p&gt;
-&lt;p&gt;Unike other embeddings inspired by word2vec, indication embeddings are specifically designed to capture the medical history leading to prescription of a new drug. For retrospective cohort studies, our low-dimensional representation helps in finding comparator drugs and constructing comparator cohorts.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computational Disease Biology Lab</title><link>https://rdmelamed.github.io/</link><atom:link href="https://rdmelamed.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Computational Disease Biology Lab</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2020 14:41:04 -0400</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Computational Disease Biology Lab</title><link>https://rdmelamed.github.io/</link></image><item><title>My Article Name</title><link>https://rdmelamed.github.io/post/hello/</link><pubDate>Mon, 09 Mar 2020 14:41:04 -0400</pubDate><guid>https://rdmelamed.github.io/post/hello/</guid><description>&lt;p>The work of this lab is inspired by certain key aspects of this process:&lt;/p>
+&lt;ul>
+&lt;li>Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the gene for the BRAF protein causes constitutive growth signaling.
+&lt;figure id="figure-a-caption">
+&lt;img data-src="https://rdmelamed.github.io/post/hello/Picture1_hu8d303a4a1e4694070fd91f5dfdf45d0c_24134_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="317" height="178">
+&lt;figcaption>
+A caption
+&lt;/figcaption>
+&lt;/figure>
+&lt;/li>
+&lt;/ul>
+&lt;p>Metformin, a diabetes drug, is under investigation as a cancer therapy, while combination hormone replacement therapy was found to increase risk of breast cancer.&lt;/p>
+&lt;ul>
+&lt;li>Bloop
+&lt;figure id="figure-cells-are-constantly-at-risk-of-dna-damage-which-can-accumulate-over-many-cell-divisions-but-this-damage-only-results-in-cancer-when-it-affects-certain-well-defined-hallmark-biological-processes-insert-link-for-example-in-many-melanomas-a-specific-point-mutation-to-the--gene-for-the-braf-protein-causes-constitutive-growth-signaling">
+&lt;a data-fancybox="" href="https://rdmelamed.github.io/img/research/c1.png" data-caption="Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the gene for the BRAF protein causes constitutive growth signaling.">
+&lt;img src="https://rdmelamed.github.io/img/research/c1.png" alt="" >
+&lt;/a>
+&lt;figcaption>
+Cells are constantly at risk of DNA damage, which can accumulate over many cell divisions. But this damage only results in cancer when it affects certain well-defined hallmark biological processes (insert link). For example, in many melanomas a specific point mutation to the gene for the BRAF protein causes constitutive growth signaling.
+&lt;/figcaption>
+&lt;/figure>
+&lt;/li>
+&lt;/ul>
+&lt;figure id="figure-a-caption">
+&lt;a data-fancybox="" href="https://rdmelamed.github.io/img/Picture2.jpg" data-caption="A caption">
+&lt;img src="https://rdmelamed.github.io/img/Picture2.jpg" alt="" >
+&lt;/a>
+&lt;figcaption>
+A caption
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;ul>
+&lt;li>&lt;img src="img/Picture2.jpg" alt="Kitten"
+title="A cute kitten" width="150" height="100" align="left" />
+img src=&amp;ldquo;img/research/c2.png&amp;rdquo; alt=&amp;ldquo;cancer&amp;rdquo; width=&amp;ldquo;150&amp;rdquo; height=&amp;ldquo;100&amp;rdquo; align=&amp;ldquo;right&amp;rdquo;&lt;/li>
+&lt;/ul></description></item><item><title>join</title><link>https://rdmelamed.github.io/join/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/join/</guid><description/></item><item><title>Landing Page</title><link>https://rdmelamed.github.io/people/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/people/</guid><description/></item><item><title>Landing Page</title><link>https://rdmelamed.github.io/pubpage/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/pubpage/</guid><description/></item><item><title>papers2</title><link>https://rdmelamed.github.io/papers/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/papers/</guid><description>&lt;p>See full publications here&lt;/p></description></item><item><title>Patchwork of contrasting medication cultures across the USA</title><link>https://rdmelamed.github.io/publication/patchwork/</link><pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/publication/patchwork/</guid><description>&lt;img src="detailed.png" alt="cancer" vspace = "20" width="350" height="350" align="center" /></description></item><item><title>The natural history of cancers and dementias</title><link>https://rdmelamed.github.io/project/health-records/</link><pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/project/health-records/</guid><description>&lt;p>One way to discover influences on disease development is by examining many people’s health histories. Drugs taken for other purposes may impact pre-cancerous tissue, which can manifest in altered rates of cancer among treated individuals. Famous examples include
+&lt;a href="https://www.sciencedirect.com/science/article/abs/pii/S0959804910004879" target="_blank" rel="noopener">metformin&lt;/a>, a diabetes drug which may reduce risk of cancer and is under investigation as a cancer therapy, and
+&lt;a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2819%2931709-X/fulltext" target="_blank" rel="noopener">combination hormone replacement therapy&lt;/a>, which was found to increase risk of breast cancer.&lt;/p>
+&lt;p>Similarly, some health conditions can increase risk of cancers or dementias, while others may decrease risk or result in better outcomes for patients.&lt;/p>
+&lt;p>We use medical records data and apply methods from epidemiology and causal inference in order to infer the effects of other diseases, common drugs, and combinations of these factors on cancer and dementia onset and outcomes.&lt;/p></description></item><item><title>Leveraging the shared basis of diseases</title><link>https://rdmelamed.github.io/project/disease-connect/</link><pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/project/disease-connect/</guid><description>&lt;p>Diseases develops through successive genotypic and microenvironmental changes to the body tissue. Even for patients with similar clinical disease, the life history events contributing to its development can vary.&lt;/p>
+&lt;p>In this project we combine genetic, genomic, and epidemiological methods to study the processes contributing to disease incidence, such as chronic inflammation or metabolic pathologies. Our findings will illuminate disease biology and suggest personalized therapies.&lt;/p>
+&lt;p>Common genetic variation can alter biological processes in subtle ways that eventually lead to disease development. Resources like the UK biobank combine genetic information with data on the corresponding health states of the same people. By combining multiple types of genomic data we examine how common disease processes may impact disease development&lt;/p></description></item><item><title>Genetic similarity between cancers and comorbid Mendelian diseases identifies candidate driver genes</title><link>https://rdmelamed.github.io/publication/mendelian_dis/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/publication/mendelian_dis/</guid><description>&lt;img src="detailed.png" alt="cancer" vspace = "20" width="350" height="350" align="center" />
+&lt;p>Compilations of clinical records spanning over 100 million patients provide an unprecedented opportunity to assess clinical associations between Mendelian diseases and cancers. We systematically compare these comorbidities against recurrent somatic mutations from more than 5,000 patients across many cancers. Using multiple measures of genetic similarity, we show that a Mendelian disease and comorbid cancer indeed have genetic alterations of significant functional similarity. This result provides a basis to identify candidate drivers in cancers including melanoma and glioblastoma. Some Mendelian diseases demonstrate ‘pan-cancer’ comorbidity and shared genetics across cancers.&lt;/p></description></item><item><title>Learning how drugs affect disease tissue</title><link>https://rdmelamed.github.io/project/drug-effects/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/project/drug-effects/</guid><description>&lt;p>While health databases bring the exciting opportunity to generate hypotheses regarding drugs that alter risk of disease, experimental data provides another viewpoint on drug effects. This project aims to use this data to understand the effects of drugs on gene expression, and how these effects tie to disease pathways.&lt;/p>
+&lt;p>Publicly available large-scale experiments measure gene expression and phenotype of diverse human cell lines perturbed by hundreds of molecules, including many common drugs. This project combines this in vitro data with knowledge bases of drug effects in human populations, disease multi-omics projects, and systems biology databases to learn how drug-induced gene expression can alter disease pathways resulting in observable effects on disease development.&lt;/p></description></item><item><title/><link>https://rdmelamed.github.io/googlec7f5397a7a32e166/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/googlec7f5397a7a32e166/</guid><description>google-site-verification: googlec7f5397a7a32e166.html</description></item><item><title/><link>https://rdmelamed.github.io/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/home/</guid><description/></item><item><title>Using indication embeddings to represent patient health for drug safety studies</title><link>https://rdmelamed.github.io/publication/indication_embeddings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rdmelamed.github.io/publication/indication_embeddings/</guid><description>&lt;p>
+&lt;a href="https://rdmelamed.github.io/files/poster_melamed_amianov.pdf">&lt;img src="Slide1.jpeg" alt="poster" vspace = "20" width="350" height="350" align="center" />&lt;/a>&lt;/p>
+&lt;p>Methods to discover effects of drugs in health data must account for tens of thousands of potentially relevant confounders. Our goal in this work is to reduce the dimensionality of the health data with the aim of accelerating the application of retrospective cohort studies to this data.&lt;/p>
+&lt;p>In this work, we develop indication embeddings, a way to reduce the dimensionality of health data while capturing the information relevant to treatment decisions. We evaluate these embeddings using external data on drug indications. Then, we use the embeddings as a substitute for medical history to match patients, and develop evaluation metrics for these matches.&lt;/p>
+&lt;p>We demonstrate that these embeddings recover therapeutic uses of drugs. We use embeddings as an informative representation of relationships between drugs, between health history events and drug prescriptions, and between patients at a particular time in their health history. We show that using embeddings to match cohorts improves the balance of the cohorts in terms of poorly measured risk factors like smoking.&lt;/p>
+&lt;p>Unike other embeddings inspired by word2vec, indication embeddings are specifically designed to capture the medical history leading to prescription of a new drug. For retrospective cohort studies, our low-dimensional representation helps in finding comparator drugs and constructing comparator cohorts.&lt;/p></description></item></channel></rss>
